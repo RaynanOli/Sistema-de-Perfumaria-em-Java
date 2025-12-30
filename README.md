@@ -1,4 +1,4 @@
-Sistema de Vendas – Perfumaria
+ ⭐Sistema de Vendas – Perfumaria⭐
 
 Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o controle de clientes, produtos, fornecedores, compras e vendas, com persistência em banco de dados e interface gráfica.
 
