@@ -56,3 +56,6 @@ Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o 
 •Uso de padrões de projeto <br>
 •Integração com banco de dados <br>
 •Desenvolvimento de sistemas desktop 
+
+![Sistema de Vendas – Perfumaria](tela-inicial.png)
+
