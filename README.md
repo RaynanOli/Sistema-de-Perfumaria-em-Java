@@ -2,7 +2,7 @@
 
 Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o controle de clientes, produtos, fornecedores, compras e vendas, com persistência em banco de dados e interface gráfica.
 
-
+<br>
 📌 Funcionalidades
 
 •Cadastro de clientes <br>
@@ -14,7 +14,7 @@ Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o 
 •Controle de dados utilizando padrão DAO <br>
 •Interface gráfica (GUI) <br>
 
-
+<br>
 🛠️ Tecnologias Utilizadas
 
 •Java SE <br>
@@ -24,7 +24,7 @@ Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o 
 •NetBeans IDE <br>
 •Padrão DAO (Data Access Object) 
 
-
+<br>
 🧱 Arquitetura
 
 -O projeto segue uma separação em camadas: <br>
@@ -33,14 +33,14 @@ Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o 
 •GUI: Interface gráfica para interação com o usuário <br>
 •Também acompanha Diagrama de Classes, facilitando o entendimento da estrutura do sistema.
 
-
+<br>
 ⚙️ Configuração do Banco de Dados
 
 •Crie um banco de dados no MySQL <br>
 •Ajuste as credenciais de acesso na classe Conexao.java <br>
 •Execute os scripts SQL ( Dentro dos Packages existe um nomeado como "documentos" lá está o script SQL para copiar e colar.
 
-
+<br>
 ▶️ Como Executar
 
 •Abra o projeto no NetBeans <br>
@@ -48,7 +48,7 @@ Sistema desenvolvido em Java para gerenciamento de uma perfumaria, permitindo o 
 •Compile o projeto <br>
 •Execute a classe principal (Main) 
 
-
+<br>
 🎯 Objetivo do Projeto
 
 -Projeto desenvolvido com fins acadêmicos, com foco em: <br>
